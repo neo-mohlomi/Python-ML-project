@@ -1,4 +1,4 @@
-# Python-ML-project
+# Salary prediction
 Simple linear regression model to predict the salary of the employee based on years of experience using Python (Pandas, NumPy, scikit-learn).
 ## Project Overview
 This project focuses on building a simple linear regression model to predict employee salaries based on years of experience. The goal is to understand the relationship between experience and salary and use it to make predictions.
